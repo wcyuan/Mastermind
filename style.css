@@ -1,0 +1,11 @@
+table {
+	border: 1;
+	display: inline-block;
+}
+
+div {
+	width: 10px;
+	height: 10px;
+	border: 10px;
+	background-color: black;
+}
